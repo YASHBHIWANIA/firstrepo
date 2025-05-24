@@ -1,3 +1,4 @@
 # firstrepo
-this is my first github repository<br>
-author-Yash Bhiwania
+this is my first github repositor
+<br>
+author-Yash bhivu
